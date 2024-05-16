@@ -1,9 +1,9 @@
-var heroDiv = document.getElementById('heroPostDiv')
-var articleDiv = document.getElementById('arcticlesDiv')
-var viewBtn = document.getElementById('viewMBtnDiv')
+var heroDiv = document.getElementById("heroPostDiv");
+var articleDiv = document.getElementById("arcticlesDiv");
+var viewBtn = document.getElementById("viewMBtnDiv");
 
-heroDiv.addEventListener('click', function() {
-    heroDiv.innerHTML = `
+heroDiv.addEventListener("click", function () {
+  heroDiv.innerHTML = `
                             <div class="heroPostDivDark">
                                 <div class="heroPostText heroPostTextDark">
                                     <span>JULY 23, 2022</span>
@@ -25,9 +25,9 @@ heroDiv.addEventListener('click', function() {
                                         <p>That helped me grok what I was learning, and I realized that posting my learning summaries was also helping others learn and stay motivated.</p>
                                 </div>
                             </div>
-                        `
-    
-    articleDiv.innerHTML = `
+                        `;
+
+  articleDiv.innerHTML = `
                                     <p class="acrticleDivTitle">Recent posts</p>
                                     <article>
                                         <img src="images/article-image-03.jpg" 
@@ -48,7 +48,7 @@ heroDiv.addEventListener('click', function() {
                                         </header>
                                     </article>
                                     <article>
-                                        <img src="images/article-image-01.jpg" 
+                                        <img src="images/article-image-01-Cn24e7jh.jpg" 
                                             alt="A laptop on desk with visible coding script" class="articleImg">
                                         <header class="article-header">
                                             <p>July 23, 2022</p>
@@ -56,13 +56,9 @@ heroDiv.addEventListener('click', function() {
                                             <h3>I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path.</h3>
                                         </header>
                                     </article>
-    `
-    
-    heroDiv.style.background = 'none';
-    articleDiv.classList.add('arcticlesDivDark');
-    viewBtn.classList.add('hidden');
-})
+    `;
 
-
-
-
+  heroDiv.style.background = "none";
+  articleDiv.classList.add("arcticlesDivDark");
+  viewBtn.classList.add("hidden");
+});
