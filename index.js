@@ -11,7 +11,7 @@ heroDiv.addEventListener("click", function () {
                                     <p>
                                         After several months of learning in the Frontend Developer Career Path, I've made the big jump over to the Bootcamp to get expert code reviews of my Solo Projects projects and meet like-minded peers.
                                     </p>
-                                    <img src="./images/article-image-hero.jpg">
+                                    <img src="/assets/article-image-hero-cpw6ye6q.jpg">
                                         <h3> How I stay committed to learning </h3>
 
                                         <p>I like to think of myself as a lifelong learner. I used to spend hours and hours learning, then try to create simple projects using what I learned or work new techniques into existing projects.</p>
@@ -30,7 +30,7 @@ heroDiv.addEventListener("click", function () {
   articleDiv.innerHTML = `
                                     <p class="acrticleDivTitle">Recent posts</p>
                                     <article>
-                                        <img src="images/article-image-03.jpg" 
+                                        <img src="/assets/article-image-03-bg_voc5t.jpg" 
                                             alt="A laptop on desk with visible coding script" class="articleImg">
                                         <header class="article-header">
                                             <p>July 23, 2022</p>
@@ -39,7 +39,7 @@ heroDiv.addEventListener("click", function () {
                                         </header>
                                     </article>
                                     <article>
-                                        <img src="images/article-image-02.jpg" 
+                                        <img src="/assets/article-image-02-d9klpo36.jpg" 
                                             alt="A laptop on desk with visible coding script" class="articleImg">
                                         <header class="article-header">
                                             <p>July 23, 2022</p>
@@ -48,7 +48,7 @@ heroDiv.addEventListener("click", function () {
                                         </header>
                                     </article>
                                     <article>
-                                        <img src="/assets/article-image-hero-cpw6ye6q.jpg" 
+                                        <img src="/assets/article-image-01-cn24e7jh.jpg" 
                                             alt="A laptop on desk with visible coding script" class="articleImg">
                                         <header class="article-header">
                                             <p>July 23, 2022</p>
