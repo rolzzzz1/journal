@@ -4,8 +4,8 @@ var viewBtn = document.getElementById("viewMBtnDiv");
 
 heroDiv.addEventListener("click", function () {
   heroDiv.innerHTML = `
-                            <div class="heroPostDiv heroPostDivDark">
-                                <div class="heroPostTextDark">
+                            <div class="heroPostDivDark">
+                                <div class="heroPostText heroPostTextDark">
                                     <span>JULY 23, 2022</span>
                                     <h1>My new journey as a bootcamp student.</h1>
                                     <p>
