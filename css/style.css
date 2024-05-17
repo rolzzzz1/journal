@@ -86,6 +86,10 @@ body {
 
 /* Hero post */
 
+.heroImg {
+  padding-bottom: 10px;
+}
+
 .heroPostDiv {
   display: block;
   background: url("../images/article-image-hero.jpg");
@@ -107,6 +111,7 @@ body {
 .heroPostTextDark {
   color: #151515;
   padding-top: 10px;
+  padding-left: 20px;
 }
 
 .heroPostText span {
