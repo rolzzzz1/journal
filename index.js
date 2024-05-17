@@ -48,7 +48,7 @@ heroDiv.addEventListener("click", function () {
                                         </header>
                                     </article>
                                     <article>
-                                        <img src="/.netlify/images?url=/images/article-image-01.jpg" 
+                                        <img src="article-image-hero-Cpw6ye6q.jpg" 
                                             alt="A laptop on desk with visible coding script" class="articleImg">
                                         <header class="article-header">
                                             <p>July 23, 2022</p>
