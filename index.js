@@ -48,7 +48,7 @@ heroDiv.addEventListener("click", function () {
                                         </header>
                                     </article>
                                     <article>
-                                        <img src="/assets/article-image-hero.jpg" 
+                                        <img src="/assets/article-image-hero-cpw6ye6q.jpg" 
                                             alt="A laptop on desk with visible coding script" class="articleImg">
                                         <header class="article-header">
                                             <p>July 23, 2022</p>
